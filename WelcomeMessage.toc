@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: WelcomeMessage|cFF00FF00 Beta 1.0|r
+## Notes: Prints a motivational message into the chatbox
+## Author: Yorkie
+## Version: 1.0
+
+WelcomeMessage.lua
